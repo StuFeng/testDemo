@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7c40fd9-0733-43d5-a933-afd5ddeac14b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_netzwerg_paleo_core_0_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_56.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_patch_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_schema_core_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_json_schema_validator_2_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_fge_uri_template_0_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_libphonenumber_libphonenumber_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_swagger2markup_markup_document_builder_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_swagger2markup_swagger2markup_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_javaslang_javaslang_2_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_javaslang_javaslang_match_2_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_compat_spec_parser_1_0_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_core_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_parser_1_0_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vavr_vavr_0_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_vavr_vavr_match_0_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mailapi_1_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_rc_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nl_jworks_markdown_to_asciidoc_markdown_to_asciidoc_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_configuration2_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mozilla_rhino_1_7R4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_analysis_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_tree_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_util_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_parboiled_parboiled_core_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_parboiled_parboiled_java_1_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_pegdown_pegdown_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_ext_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/ExportSwagger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/Demo1ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/Demo1ApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,76 +18,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/ExportSwagger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1">
-              <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/Demo1ApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+            <state relative-caret-position="228">
+              <caret line="62" column="36" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/image/FileTypeEnum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-215">
-              <caret line="100" column="32" selection-start-line="100" selection-start-column="32" selection-end-line="100" selection-end-column="32" />
+            <state relative-caret-position="105">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/image/UploadUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/image/ImageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="83" column="55" selection-start-line="83" selection-start-column="55" selection-end-line="83" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="231" column="25" selection-start-line="231" selection-start-column="25" selection-end-line="231" selection-end-column="25" />
               <folding>
-                <element signature="e#8711#8712#0" expanded="true" />
-                <element signature="e#8750#8751#0" expanded="true" />
+                <element signature="e#7967#7968#0" expanded="true" />
+                <element signature="e#8013#8014#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Map.java">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/bean/BizService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="164" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="462" column="19" selection-start-line="462" selection-start-column="18" selection-end-line="462" selection-end-column="26" />
+            <state relative-caret-position="336">
+              <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
               <folding>
-                <element signature="e#15704#15705#0" expanded="true" />
-                <element signature="e#15770#15771#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+            <state relative-caret-position="-156">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1/pom.xml">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/BeanFactoryAware.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="91" column="21" selection-start-line="87" selection-start-column="8" selection-end-line="91" selection-end-column="21" />
+            <state relative-caret-position="90">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/Aware.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/BeanNameAware.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -204,7 +181,6 @@
         <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/util/QRCode.java" />
         <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/FutureTask/FutureTaskDemo.java" />
         <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/image/FileTypeEnum.java" />
-        <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/image/UploadUtil.java" />
         <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/image/ImageController.java" />
         <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/voltile/VolatileTest.java" />
         <option value="$PROJECT_DIR$/demo2/src/com/fsh/test/HeapOOM.java" />
@@ -228,6 +204,7 @@
         <option value="$PROJECT_DIR$/demo1/fsh/fsh.md" />
         <option value="$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/ExportSwagger.java" />
         <option value="$PROJECT_DIR$/demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/image/UploadUtil.java" />
         <option value="$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/Demo1ApplicationTests.java" />
       </list>
     </option>
@@ -242,9 +219,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="698" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -302,20 +278,15 @@
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="demo3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="demo3" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="demo3" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fsh" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -334,6 +305,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/demo1/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -367,23 +340,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Demo1ApplicationTests.test">
+  <component name="RunManager" selected="JUnit.Demo1ApplicationTests.test4">
     <configuration name="RuntimeConstantPoolOOM" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.fsh.test.RuntimeConstantPoolOOM" />
       <module name="demo2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsh.test.weical.TestCal" />
-      <module name="demo2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fsh.test.weical.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -415,6 +375,22 @@
       <option name="PACKAGE_NAME" value="com.example.demo1" />
       <option name="MAIN_CLASS_NAME" value="com.example.demo1.Demo1ApplicationTests" />
       <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo1ApplicationTests.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo1" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo1.Demo1ApplicationTests" />
+      <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -461,20 +437,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.RuntimeConstantPoolOOM" />
-      <item itemvalue="Application.TestCal" />
       <item itemvalue="JUnit.ExportSwagger.generateMarkdownDocs" />
       <item itemvalue="JUnit.ExportSwagger.generateMarkdownDocsToFile" />
-      <item itemvalue="Spring Boot.Demo1Application" />
       <item itemvalue="JUnit.Demo1ApplicationTests.test3" />
       <item itemvalue="JUnit.Demo1ApplicationTests.test" />
+      <item itemvalue="Spring Boot.Demo1Application" />
+      <item itemvalue="JUnit.Demo1ApplicationTests.test4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Demo1ApplicationTests.test4" />
         <item itemvalue="JUnit.Demo1ApplicationTests.test" />
         <item itemvalue="JUnit.Demo1ApplicationTests.test3" />
         <item itemvalue="JUnit.ExportSwagger.generateMarkdownDocsToFile" />
         <item itemvalue="JUnit.ExportSwagger.generateMarkdownDocs" />
-        <item itemvalue="Application.TestCal" />
       </list>
     </recent_temporary>
   </component>
@@ -529,50 +505,52 @@
       <workItem from="1572426849183" duration="11948000" />
       <workItem from="1572836342700" duration="1997000" />
       <workItem from="1573010530400" duration="17743000" />
-      <workItem from="1574826521579" duration="6191000" />
+      <workItem from="1574826521579" duration="6930000" />
+      <workItem from="1575350658123" duration="245000" />
+      <workItem from="1575442059250" duration="355000" />
+      <workItem from="1575543869266" duration="3785000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Demo1ApplicationTests_test3 - 2019.11.27 at 16h 37m 23s.xml">
-      <configuration name="Demo1ApplicationTests.test3" configurationId="JUnit" />
+    <history-entry file="Demo1ApplicationTests_test4 - 2019.12.05 at 19h 14m 22s.xml">
+      <configuration name="Demo1ApplicationTests.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Demo1ApplicationTests_test - 2019.11.28 at 13h 56m 27s.xml">
-      <configuration name="Demo1ApplicationTests.test" configurationId="JUnit" />
+    <history-entry file="Demo1ApplicationTests_test4 - 2019.12.05 at 19h 19m 42s.xml">
+      <configuration name="Demo1ApplicationTests.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Demo1ApplicationTests_test - 2019.11.28 at 13h 57m 00s.xml">
-      <configuration name="Demo1ApplicationTests.test" configurationId="JUnit" />
+    <history-entry file="Demo1ApplicationTests_test4 - 2019.12.05 at 19h 20m 02s.xml">
+      <configuration name="Demo1ApplicationTests.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Demo1ApplicationTests_test - 2019.11.28 at 13h 57m 31s.xml">
-      <configuration name="Demo1ApplicationTests.test" configurationId="JUnit" />
+    <history-entry file="Demo1ApplicationTests_test4 - 2019.12.05 at 19h 32m 59s.xml">
+      <configuration name="Demo1ApplicationTests.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Demo1ApplicationTests_test - 2019.11.28 at 13h 58m 56s.xml">
-      <configuration name="Demo1ApplicationTests.test" configurationId="JUnit" />
+    <history-entry file="Demo1ApplicationTests_test4 - 2019.12.05 at 19h 34m 19s.xml">
+      <configuration name="Demo1ApplicationTests.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Demo1ApplicationTests_test - 2019.11.28 at 14h 17m 22s.xml">
-      <configuration name="Demo1ApplicationTests.test" configurationId="JUnit" />
+    <history-entry file="Demo1ApplicationTests_test4 - 2019.12.05 at 19h 35m 15s.xml">
+      <configuration name="Demo1ApplicationTests.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Demo1ApplicationTests_test - 2019.11.28 at 14h 17m 48s.xml">
-      <configuration name="Demo1ApplicationTests.test" configurationId="JUnit" />
+    <history-entry file="Demo1ApplicationTests_test4 - 2019.12.05 at 19h 40m 40s.xml">
+      <configuration name="Demo1ApplicationTests.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Demo1ApplicationTests_test - 2019.11.28 at 14h 19m 14s.xml">
-      <configuration name="Demo1ApplicationTests.test" configurationId="JUnit" />
+    <history-entry file="Demo1ApplicationTests_test4 - 2019.12.05 at 19h 41m 00s.xml">
+      <configuration name="Demo1ApplicationTests.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Demo1ApplicationTests_test - 2019.11.28 at 14h 26m 38s.xml">
-      <configuration name="Demo1ApplicationTests.test" configurationId="JUnit" />
+    <history-entry file="Demo1ApplicationTests_test4 - 2019.12.05 at 19h 41m 18s.xml">
+      <configuration name="Demo1ApplicationTests.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Demo1ApplicationTests_test - 2019.11.28 at 14h 27m 48s.xml">
-      <configuration name="Demo1ApplicationTests.test" configurationId="JUnit" />
+    <history-entry file="Demo1ApplicationTests_test4 - 2019.12.05 at 19h 49m 50s.xml">
+      <configuration name="Demo1ApplicationTests.test4" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142829000" />
+    <option name="totallyTimeSpent" value="147953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33764136" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3546042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -580,8 +558,8 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47534245" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41147542" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.47534245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24657534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -656,78 +634,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo3/src/com/fsh.java" />
-    <entry file="file://$PROJECT_DIR$/demo2/src/com/fsh/test/weical/TestCal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/javax/annotation/processing/ProcessingEnvironment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="93" column="24" lean-forward="true" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/demo2/com/fsh/test/jvm/ConstClass.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/javax/lang/model/util/ElementScanner6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
-          <folding>
-            <element signature="e#5394#5395#0" expanded="true" />
-            <element signature="e#5430#5431#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/javax/lang/model/element/ElementKind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="56" column="4" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/javax/lang/model/element/Modifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="46" column="20" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/javax/lang/model/element/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="96" column="14" lean-forward="true" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="5668" column="18" lean-forward="true" selection-start-line="5668" selection-start-column="18" selection-end-line="5668" selection-end-column="18" />
-          <folding>
-            <element signature="e#161801#161802#0" expanded="true" />
-            <element signature="e#161873#161874#0" expanded="true" />
-            <element signature="e#198787#198788#0" expanded="true" />
-            <element signature="e#198862#198863#0" expanded="true" />
-            <element signature="e#252165#252166#0" expanded="true" />
-            <element signature="e#252234#252235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo3/src/com/fsh/BADLY_NAMED.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -996,23 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/ExportSwagger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="91" column="21" selection-start-line="87" selection-start-column="8" selection-end-line="91" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
@@ -1031,13 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="164" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-215">
@@ -1049,10 +931,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="164" column="12" selection-start-line="164" selection-start-column="12" selection-end-line="164" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/ExportSwagger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="89" column="35" selection-start-line="89" selection-start-column="35" selection-end-line="89" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/BeanNameAware.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/Aware.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/BeanFactoryAware.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/bean/BizService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/image/FileTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="231" column="25" selection-start-line="231" selection-start-column="25" selection-end-line="231" selection-end-column="25" />
+          <folding>
+            <element signature="e#7967#7968#0" expanded="true" />
+            <element signature="e#8013#8014#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/image/ImageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="83" column="55" selection-start-line="83" selection-start-column="55" selection-end-line="83" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/example/demo1/image/UploadUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo1/src/test/java/com/example/demo1/Demo1ApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        <state relative-caret-position="228">
+          <caret line="62" column="36" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="36" />
         </state>
       </provider>
     </entry>
