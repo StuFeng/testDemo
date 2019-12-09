@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2019 Baidu, Inc. All Rights Reserved.
  */
-package com.example.demo1.util.rc2;
+package com.example.demo1.jiami.rc2;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.RC2ParameterSpec;

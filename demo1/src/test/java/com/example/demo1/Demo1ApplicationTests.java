@@ -10,6 +10,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
+import java.util.Queue;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
@@ -48,23 +49,30 @@ public class Demo1ApplicationTests {
 
     @Test
     public void test4() throws IOException {
-        BufferedInputStream bf = null;
-        String img = "http://v-huya-img.huya.com/1949/241512748/4-640x360.jpg";
-//        String img = "https://blog.csdn.net/qq_33302004/article/details/80439294";
-        URL url = new URL(img);
-        // 打开restful链接
-        HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-        conn.setRequestMethod("GET");
-        // 设置访问提交模式，表单提交
-        conn.setRequestProperty("User-Agent", "baiduspider");
-        conn.setConnectTimeout(2000);
-        conn.setReadTimeout(2000);
+//        BufferedInputStream bf = null;
+//        String img = "http://v-huya-img.huya.com/1949/241512748/4-640x360.jpg";
+////        String img = "https://blog.csdn.net/qq_33302004/article/details/80439294";
+//        URL url = new URL(img);
+//        // 打开restful链接
+//        HttpURLConnection conn = (HttpURLConnection) url.openConnection();
+//        conn.setRequestMethod("GET");
+//        // 设置访问提交模式，表单提交
+//        conn.setRequestProperty("User-Agent", "baiduspider");
+//        conn.setConnectTimeout(2000);
+//        conn.setReadTimeout(2000);
+//
+//        bf = new BufferedInputStream(conn.getInputStream());
+//        FileTypeEnum fileType = UploadUtil.getFileType(bf);
+//
+//        if (!fileType.equals(FileTypeEnum.jpg) && !fileType.equals(FileTypeEnum.png)) {
+//            System.out.println();
+//        }
 
-        bf = new BufferedInputStream(conn.getInputStream());
-        FileTypeEnum fileType = UploadUtil.getFileType(bf);
+//        System.out.println(new Integer(1) == 1);
+        for (int i=0;i<10;i++){
+            double random = Math.floor(Math.random() * 3);
+            System.out.println(random);
 
-        if (!fileType.equals(FileTypeEnum.jpg) && !fileType.equals(FileTypeEnum.png)) {
-            System.out.println();
         }
     }
 
